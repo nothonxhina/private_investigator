@@ -1,6 +1,8 @@
 # private_investigator
 The source code for the "private investigator" bot.
 
+Please report any issues or any command recommendations in Issues.
+
 **Repository and Code**
 
 Note that this repo will not contain all emojis, API keys, sensitive information that the bot uses as for obvious reasons, would have a chance to be abused.

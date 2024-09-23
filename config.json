@@ -1,0 +1,5 @@
+{
+    "beta_testers": ["USERID1", "USERID2"],
+    "owner": ["ownerUserID"],
+    "developers": ["devUserID1", "devUserID2"]
+}

@@ -7,6 +7,8 @@ Please report any issues or any command recommendations in Issues.
 
 Note that this repo will not contain all emojis, API keys, sensitive information that the bot uses as for obvious reasons, would have a chance to be abused.
 
+This repository will update every .5 updates such as 1.5, 2.5, etc
+
 Some code may differ from original source code due to the mentioned sensitive information above.
 
 **Terms and Conditions**
